@@ -17,7 +17,7 @@ echo -e $purple "modified by 0n1cOn3"
 
 prep_env (){
 termux-setup-storage
-apt install git curl python2 python3
+apt install git curl python2 python3 -y
 clear
 }
 
