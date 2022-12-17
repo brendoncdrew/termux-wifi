@@ -57,4 +57,3 @@ echo -e $green "Successfully installed!"
 prep_env
 prep2_env
 inst_env
-
