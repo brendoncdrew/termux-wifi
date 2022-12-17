@@ -11,7 +11,7 @@ pkg install git
 ``
 
 ``
-git clone https://github.com/brendoncdrew/termux-wifi && cd termux-wifi
+git clone https://github.com/brendoncdrew/termux-wifi.git && cd termux-wifi
 ``
 
 Set permissions on the executable and then run it:
